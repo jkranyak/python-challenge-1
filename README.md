@@ -1,10 +1,13 @@
-*This Code was created by 
-***Jesse Kranyak**
+This Code was created by
 
-*With the help of 
+**Jesse Kranyak**
+
+With the help of 
 
 **Mark King**
-*Of Merit Network 
-*Helped me along with figuring out line space calculations, 
-*and string multiplication. 
+Of Merit Network
+
+Helped me along with figuring out line space calculations, 
+
+and string multiplication. 
 
